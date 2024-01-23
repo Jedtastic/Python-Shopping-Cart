@@ -35,7 +35,6 @@ while True:
       items.append(item)
       #.append() adds the value you put in to the list you put in fronna the .
       prices.append(price)
-#line number 27 like my bday february 27(get me a cake!)
   else:
     print("love you")
 print("")#putting a space in between what theyre inputting and when they quit
@@ -47,6 +46,3 @@ for price in prices:
   bill = bill*1.13 #taxing them so i can make profit (buggin if u think im giving that to sum1)
 print(f"So your bill comes out to ${bill}")
 print("Hope your card doesnt decline lol, otherwise we gonna have issues :(")
-#thankyou is a library i made
-
-#thats just a fun little closing code i like to do so diregard it!(hope you fall under the third if)
